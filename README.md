@@ -3,7 +3,9 @@
 
 <img align="right" width="350" height="250" src="https://i.postimg.cc/9FMqJJKp/giphy.gif">
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently working on **startup**
+
+- Founder & CEO of **Evas Multiskill** 
 
 - 🌱 I’m currently learning **java**
  
