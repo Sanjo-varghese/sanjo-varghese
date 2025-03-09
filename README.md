@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjo Varghese</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Cloud & System Adminstator from India</h3>
 
 <img align="right" width="350" height="250" src="https://i.postimg.cc/9FMqJJKp/giphy.gif">
 
